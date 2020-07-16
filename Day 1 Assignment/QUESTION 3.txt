@@ -1,0 +1,24 @@
+Data Types in JS
+
+1.Numbers - All numbers in js are represented as floating point values.
+  
+   example:  var a = 10;
+   
+2.Strings - It is used to represent textual data.
+            Strings are created using single or double quotes surrounding one or more characters.
+            
+   example:  var b = "LetsUpgrade"; 
+   
+3.Boolean - This gives true or false.
+  
+   example:  var c = true; 
+   
+4.Null - Defines a single value i.e 0.
+
+    example:  var a = null;
+              console.log(a); //prints null in the console
+              
+5.Undefined - Defines a single value i.e undefined.
+
+    example:  var a;
+              console.log(a); // prints undefined in the console

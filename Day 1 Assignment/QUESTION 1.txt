@@ -1,0 +1,25 @@
+Various Methods in Console Function
+
+1.console.log();
+    It gives Output message to the console.
+    
+2.console.error();
+    It gives Output as an error message to the console.
+    
+3.console.warn();
+    It gives the Output as a warning message to the console.
+
+4.console.clear();
+    This function will Clear the console.
+    
+5.console.assert();
+   If the assertion is false, it gives the output as an error message to the console.
+   
+6.console.count();
+   Logs the number of times that this particular call to count() has been called.
+   
+7.console.info();
+   This function will give the Output as an informational message to the console.
+   
+8.console.time();
+   It Starts a timer.
